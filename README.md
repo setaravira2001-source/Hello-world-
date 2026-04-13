@@ -1,4 +1,4 @@
-# Hello-world-
+# Python-beginner-projects
 This repository contains my Python practice projects as I learn programming step by step.
 My Python learning projects and exercises.
 
