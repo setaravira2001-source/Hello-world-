@@ -8,7 +8,8 @@ This repository is where I upload my projects and track my progress.
 
 ## Projects
 - Ingredient Adjuster
-- Calculator (coming soon)
+- Calculator
+- Grade Calculator
 - More projects will be added regularly
 
 ## Goal
